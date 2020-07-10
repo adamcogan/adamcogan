@@ -10,5 +10,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I once scratched my motorbike. I also once lost a bet (to Mehmet)
 
--a
+Cheers
+Adam Cogan
 www.adamcogan.com 
