@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adamcogan/adamcogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I work at SSW https://www.ssw.com.au/people/adam-cogan 
 - 👭 I will always be dad to 2 awesome girls 
  
@@ -14,4 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @adamcogan
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I once scratched my motorbike. I also once lost a bet (to Mehmet)
--->
+
+-a
+www.adamcogan.com 
