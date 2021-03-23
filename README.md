@@ -10,6 +10,8 @@
 * 😄 Pronouns: He/him  
 * ⚡ Fun fact: I once scratched my motorbike. I also once lost a bet (to Mehmet)  
 
+[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=AdamCogan&theme=dark)](https://github.com/AdamCogan/github-readme-stats)
+
 Cheers  
 Adam Cogan  
 www.adamcogan.com 
