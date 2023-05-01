@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 💬 Ask me about DevOps, Scrum, Azure, Dynamics 365, Office 365. SharePoint, .NET Core, Angular, React and how to Chinafy your applications  
+* 💬 Ask me about DevOps, Scrum, Azure, Dynamics 365, Microsoft 365, SharePoint, .NET Core, Angular, React and how to Chinafy your applications  
 * 🔭 I work at SSW https://www.ssw.com.au/people/adam-cogan  
 * 👭 I am dad to 2 awesome girls  
  
