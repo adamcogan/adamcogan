@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-* 💬 Ask me about DevOps, Scrum, Azure, Dynamics 365, Office 365. SharePoint, .NET Core, Angular, React and how to Chinafy your applications  
-* 🔭 I work at SSW https://www.ssw.com.au/people/adam-cogan  
+* 💬 Ask me about AI, Vibe Coding, DevOps, .NET, Scrum, Azure, Dynamics 365, Office 365. SharePoint, Angular, React and how to Chinafy your applications  
+* 🔭 I work at SSW www.ssw.com.au/people/adam-cogan  
 * 👭 I am dad to 2 awesome girls  
  
 * 🌱 I’m a consultant on AI development, Azure, DevOps and Scrum Master for clients
